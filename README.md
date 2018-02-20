@@ -7,7 +7,7 @@ The React static comp is designed to get you comfortable with basic React princi
 ![static comp design](https://i.imgur.com/8eQr70q.png)
 
 ### My Result
-![cy comp](cy-react-static-comp/React-Time.pdf)
+![cy comp](cy-react-comp-screen-shot.png)
 
 
 ### Static Comp Learning Goals
