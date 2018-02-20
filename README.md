@@ -14,4 +14,4 @@ The React static comp is designed to get you comfortable with basic React princi
 - Begin to understand creating components in React
 - Begin to understand writing in JSX
 - Begin to understand passing data through props
-- Have a sandbox in which to practice working with React
+- A sandbox in which to practice working with React
