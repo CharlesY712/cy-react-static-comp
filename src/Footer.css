@@ -1,6 +1,20 @@
 .Footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   border-top: 2px solid ghostwhite;
   padding: 20px;
   margin-top: 50px;
   color: lightseagreen;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: lightseagreen;
+  width: 20%;
+}
+
+a:hover {
+  color: turquoise;
 }
